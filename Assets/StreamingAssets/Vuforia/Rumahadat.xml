@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Tongkonan" size="1.000000 1.428571" />
+    <ImageTarget name="Musalaki" size="1.000000 1.425743" />
+    <ImageTarget name="Honai" size="1.000000 1.425743" />
+    <ImageTarget name="Gadang" size="1.000000 1.425743" />
+    <ImageTarget name="Aceh" size="1.000000 1.425743" />
+  </Tracking>
+</QCARConfig>
